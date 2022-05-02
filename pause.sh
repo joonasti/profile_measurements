@@ -1,0 +1,2 @@
+echo y > paused.txt
+
